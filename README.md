@@ -175,7 +175,7 @@ VITE_API_BASE_URL=http://localhost:8000
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## 1. Cloner le projet
 
@@ -327,7 +327,7 @@ file=<image>
 
 ## Détection en direct
 
-![Détection Live](./assets/live-detection.png)
+![Détection Live](./assets/wxyz.png)
 
 ---
 
