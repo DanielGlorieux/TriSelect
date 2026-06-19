@@ -1,0 +1,5 @@
+node_modules/
+
+# Fichiers d'environnement et secrets
+.env
+.env.local
